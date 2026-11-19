@@ -1,0 +1,4 @@
+run,n_pairs,baseline_pct,post_optimisation_pct,paired_difference_pp,bootstrap_ci_low_pp,bootstrap_ci_high_pp,improved_pairs,worsened_pairs,mcnemar_exact_p,holm_adjusted_p
+skillopt_v2_gpt4o,410,16.341,82.683,66.341,61.707,70.976,273,1,1.811940271492746e-80,1.811940271492746e-80
+skillopt_v2_gpt4o_replicate1,410,17.561,90.488,72.927,68.537,77.317,299,0,1.9636373861190906e-90,5.890912158357272e-90
+skillopt_v2_gpt4o_replicate2,410,15.366,82.195,66.829,62.195,71.22,274,0,6.588873714519077e-83,1.3177747429038154e-82

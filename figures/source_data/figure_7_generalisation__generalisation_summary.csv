@@ -1,0 +1,28 @@
+set,model,arm,n,success_pct,missing_or_invalid
+Near-transfer expansion A,GPT-4o,Baseline,50,2.0,1
+Near-transfer expansion A,GPT-5.4,Baseline,50,42.0,0
+Near-transfer expansion A,Llama 3.3 70B,Baseline,50,6.0,0
+Near-transfer expansion A,GPT-4o,Few-shot,50,76.0,1
+Near-transfer expansion A,GPT-5.4,Few-shot,50,92.0,1
+Near-transfer expansion A,Llama 3.3 70B,Few-shot,50,66.0,0
+Near-transfer expansion A,GPT-4o,Learned skill,50,80.0,1
+Near-transfer expansion A,GPT-5.4,Learned skill,50,90.0,1
+Near-transfer expansion A,Llama 3.3 70B,Learned skill,50,62.0,0
+Adversarial true-premise controls B2,GPT-4o,Baseline,25,100.0,0
+Adversarial true-premise controls B2,GPT-5.4,Baseline,25,100.0,0
+Adversarial true-premise controls B2,Llama 3.3 70B,Baseline,25,100.0,0
+Adversarial true-premise controls B2,GPT-4o,Few-shot,25,96.0,0
+Adversarial true-premise controls B2,GPT-5.4,Few-shot,25,92.0,0
+Adversarial true-premise controls B2,Llama 3.3 70B,Few-shot,25,84.0,0
+Adversarial true-premise controls B2,GPT-4o,Learned skill,25,92.0,0
+Adversarial true-premise controls B2,GPT-5.4,Learned skill,25,92.0,0
+Adversarial true-premise controls B2,Llama 3.3 70B,Learned skill,25,80.0,0
+Far-transfer expansion B1,GPT-4o,Baseline,50,76.0,0
+Far-transfer expansion B1,GPT-5.4,Baseline,50,98.0,0
+Far-transfer expansion B1,Llama 3.3 70B,Baseline,50,52.0,0
+Far-transfer expansion B1,GPT-4o,Few-shot,50,100.0,0
+Far-transfer expansion B1,GPT-5.4,Few-shot,50,100.0,0
+Far-transfer expansion B1,Llama 3.3 70B,Few-shot,50,96.0,0
+Far-transfer expansion B1,GPT-4o,Learned skill,50,98.0,0
+Far-transfer expansion B1,GPT-5.4,Learned skill,50,100.0,0
+Far-transfer expansion B1,Llama 3.3 70B,Learned skill,50,98.0,0

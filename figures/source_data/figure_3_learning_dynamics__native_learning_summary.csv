@@ -1,0 +1,13 @@
+run,label,target_model,optimizer_model,planned_steps,observed_steps,accepted_rewrites,baseline_pct,final_pct,delta_pp,skill_characters,status
+skillopt_v2_gpt4o,GPT-4o / GPT-5.4 optimiser (execution 1),gpt-4o-2024-11-20,gpt-5.4,24,24,2,16.34146341463415,82.68292682926828,66.34146341463413,4933,complete paired evaluation
+skillopt_v2_gpt4o_replicate1,GPT-4o / GPT-5.4 optimiser (execution 2),gpt-4o-2024-11-20,gpt-5.4,12,12,3,17.560975609756095,90.48780487804878,72.92682926829268,4414,complete paired evaluation
+skillopt_v2_gpt4o_replicate2,GPT-4o / GPT-5.4 optimiser (execution 3),gpt-4o-2024-11-20,gpt-5.4,12,12,2,15.365853658536585,82.1951219512195,66.82926829268293,5416,complete paired evaluation
+skillopt_v2_gpt4o_compact,GPT-4o / GPT-5.4 optimiser (compact),gpt-4o-2024-11-20,gpt-5.4,24,24,2,15.121951219512194,61.21951219512195,46.09756097560975,2874,complete paired evaluation
+skillopt_v2_gpt4o_selfopt,GPT-4o self-optimisation,gpt-4o-2024-11-20,gpt-4o-2024-11-20,12,12,0,16.82926829268293,,,128,complete optimisation; no learned rewrite
+skillopt_v2_gpt4o_luna_opt,GPT-4o / GPT-5.6 Luna optimiser,gpt-4o-2024-11-20,gpt-5.6-luna,12,12,3,17.560975609756095,58.78048780487804,41.21951219512195,7051,complete paired evaluation
+skillopt_v2_gpt54,GPT-5.4 self-optimisation,gpt-5.4-2026-03-05,gpt-5.4,12,12,2,59.512195121951216,89.75609756097562,30.243902439024403,5352,complete paired evaluation
+skillopt_v2_gemini_flash,Gemini 2.5 Flash / GPT-5.4 optimiser,gemini-2.5-flash,gpt-5.4-2026-03-05,12,12,3,1.951219512195122,20.48780487804878,18.53658536585366,4806,complete paired evaluation
+skillopt_v2_gemini35_flash,Gemini 3.5 Flash / GPT-5.4 optimiser,gemini-3.5-flash,gpt-5.4,12,0,0,,,,,not started
+skillopt_v2_llama8b,Llama 3.1 8B / GPT-5.4 optimiser,us.meta.llama3-1-8b-instruct-v1:0,gpt-5.4,12,3,0,,,,,incomplete optimisation
+skillopt_v2_llama70b,Llama 3.3 70B / GPT-5.4 optimiser,us.meta.llama3-3-70b-instruct-v1:0,gpt-5.4,12,4,0,,,,,incomplete optimisation
+skillopt_v2_luna,GPT-5.6 Luna / GPT-5.4 optimiser,gpt-5.6-luna,gpt-5.4,12,0,0,,,,,not started

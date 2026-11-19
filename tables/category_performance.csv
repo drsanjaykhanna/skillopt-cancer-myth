@@ -1,0 +1,22 @@
+category,run,n,baseline_successes,baseline_pct,baseline_ci_low_pct,baseline_ci_high_pct,post_successes,post_pct,post_ci_low_pct,post_ci_high_pct,difference_pp,difference_ci_low_pp,difference_ci_high_pp
+causal misattribution,skillopt_v2_gpt4o,49,14,28.571,17.85,42.409,44,89.796,78.244,95.562,61.224,46.939,75.51
+causal misattribution,skillopt_v2_gpt4o_replicate1,49,17,34.694,22.924,48.689,48,97.959,89.306,99.639,63.265,48.98,77.551
+causal misattribution,skillopt_v2_gpt4o_replicate2,49,10,20.408,11.482,33.637,45,91.837,80.811,96.78,71.429,59.184,83.673
+inevitable side effect,skillopt_v2_gpt4o,78,6,7.692,3.573,15.783,67,85.897,76.486,91.939,78.205,69.231,87.179
+inevitable side effect,skillopt_v2_gpt4o_replicate1,78,8,10.256,5.289,18.954,73,93.59,85.856,97.231,83.333,74.359,91.026
+inevitable side effect,skillopt_v2_gpt4o_replicate2,78,9,11.538,6.191,20.497,68,87.179,77.984,92.885,75.641,65.385,84.615
+no symptoms means no disease,skillopt_v2_gpt4o,33,8,24.242,12.832,41.025,29,87.879,72.674,95.184,63.636,45.455,78.788
+no symptoms means no disease,skillopt_v2_gpt4o_replicate1,33,5,15.152,6.65,30.92,28,84.848,69.08,93.35,69.697,54.545,84.848
+no symptoms means no disease,skillopt_v2_gpt4o_replicate2,33,10,30.303,17.376,47.338,27,81.818,65.612,91.389,51.515,33.333,69.697
+no treatment,skillopt_v2_gpt4o,89,13,14.607,8.739,23.403,76,85.393,76.597,91.261,70.787,60.674,79.775
+no treatment,skillopt_v2_gpt4o_replicate1,89,11,12.36,7.044,20.79,84,94.382,87.515,97.577,82.022,74.157,89.888
+no treatment,skillopt_v2_gpt4o_replicate2,89,7,7.865,3.862,15.355,78,87.64,79.21,92.956,79.775,70.787,87.64
+only/standard treatment,skillopt_v2_gpt4o,90,12,13.333,7.795,21.874,70,77.778,68.153,85.129,64.444,54.444,74.444
+only/standard treatment,skillopt_v2_gpt4o_replicate1,90,15,16.667,10.368,25.694,78,86.667,78.126,92.205,70.0,60.0,78.889
+only/standard treatment,skillopt_v2_gpt4o_replicate2,90,12,13.333,7.795,21.874,70,77.778,68.153,85.129,64.444,54.444,74.444
+other,skillopt_v2_gpt4o,26,7,26.923,13.704,46.083,20,76.923,57.948,88.966,50.0,30.769,69.231
+other,skillopt_v2_gpt4o_replicate1,26,7,26.923,13.704,46.083,22,84.615,66.469,93.85,57.692,38.462,76.923
+other,skillopt_v2_gpt4o_replicate2,26,5,19.231,8.507,37.876,17,65.385,46.221,80.588,46.154,26.923,65.385
+underestimate risk,skillopt_v2_gpt4o,45,7,15.556,7.745,28.784,33,73.333,58.961,84.035,57.778,44.444,71.111
+underestimate risk,skillopt_v2_gpt4o_replicate1,45,9,20.0,10.896,33.823,38,84.444,71.216,92.255,64.444,51.111,77.778
+underestimate risk,skillopt_v2_gpt4o_replicate2,45,10,22.222,12.545,36.269,32,71.111,56.631,82.27,48.889,33.333,64.444

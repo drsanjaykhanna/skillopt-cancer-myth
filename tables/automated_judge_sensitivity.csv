@@ -1,0 +1,7 @@
+design,judge_model,n,n_valid,agreement_pct,primary_judge_correction_pct,alternative_judge_correction_pct,difference_pp
+Stratified score sample,gemini-3.5-flash,45,45,71.1,55.6,57.8,2.2
+Stratified score sample,us.meta.llama3-3-70b-instruct-v1:0,45,45,82.2,55.6,64.4,8.8
+Stratified score sample,gpt-5.4,45,45,84.4,55.6,55.6,0.0
+Stratified score sample,gpt-5.6-luna,45,45,82.2,55.6,48.9,-6.7
+High-performing response sample,gpt-5.6-luna,50,50,98.0,98.0,96.0,-2.0
+High-performing response sample,gpt-5.4,50,50,96.0,98.0,94.0,-4.0

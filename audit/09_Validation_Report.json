@@ -1,0 +1,47 @@
+{
+  "generated_utc": "2026-09-08T23:45:04.9057345Z",
+  "manuscript": {
+    "tables": 3,
+    "figures": 7,
+    "main_prose_words_excluding_tables_legends_references": 3310,
+    "references": 10,
+    "comments": 0,
+    "citation_tags": [],
+    "symbol_validation": {
+      "question_marks": 0,
+      "en_dashes": 20,
+      "percent_signs": 107
+    },
+    "gpt4o_full_skill_fp_nfp_pct": "82.7 / 70.0",
+    "figure_4_plain_language_labels": true,
+    "figure_4_run_axes_aligned": true
+  },
+  "appendix": {
+    "tables": 17,
+    "figures": 0,
+    "full_and_compact_settings_verified": true,
+    "post_step_12_extension_documented": true
+  },
+  "supporting_materials": {
+    "figure_files": 40,
+    "table_files": 20,
+    "script_files": 10,
+    "audit_files": 19
+  },
+  "medrxiv_pdfs": {
+    "manuscript": {
+      "file": "SkillOpt_Manuscript_medRxiv.pdf",
+      "pages": 12,
+      "images": 7,
+      "sha256": "33bc8d0a5302d5d88c3ae1a99a8a968819da40d4e230d04c644a53ea9d443471"
+    },
+    "supplement": {
+      "file": "SkillOpt_Supplement_medRxiv.pdf",
+      "pages": 18,
+      "sha256": "04de638e86fb4fbfe91ea79d4f47f07fc4e986e535f6868023f71d09c022a919"
+    }
+  },
+  "unresolved_before_submission": [
+    "Reconcile 250 human-review records and agreement calculation before including any human-agreement claim."
+  ]
+}

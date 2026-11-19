@@ -1,0 +1,25 @@
+skill,theme,present,match_count,skill_characters
+Primary skill,Premise audit,1,14,4933
+Primary skill,Correction before advice,1,3,4933
+Primary skill,Explicit negate-then-replace template,0,0,4933
+Primary skill,Conditional framing,1,15,4933
+Primary skill,Clinical determinants,1,4,4933
+Primary skill,Oncology-team referral,1,7,4933
+Primary skill,Avoid downstream reinforcement,1,2,4933
+Primary skill,Supportive or empathetic tone,1,3,4933
+Replicate 1,Premise audit,1,15,4414
+Replicate 1,Correction before advice,1,2,4414
+Replicate 1,Explicit negate-then-replace template,1,1,4414
+Replicate 1,Conditional framing,1,5,4414
+Replicate 1,Clinical determinants,1,4,4414
+Replicate 1,Oncology-team referral,1,1,4414
+Replicate 1,Avoid downstream reinforcement,1,3,4414
+Replicate 1,Supportive or empathetic tone,1,4,4414
+Replicate 2,Premise audit,1,12,5416
+Replicate 2,Correction before advice,1,3,5416
+Replicate 2,Explicit negate-then-replace template,0,0,5416
+Replicate 2,Conditional framing,1,7,5416
+Replicate 2,Clinical determinants,1,6,5416
+Replicate 2,Oncology-team referral,1,3,5416
+Replicate 2,Avoid downstream reinforcement,1,4,5416
+Replicate 2,Supportive or empathetic tone,1,2,5416

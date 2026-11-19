@@ -1,0 +1,28 @@
+model,model_id,intervention,correction_pct,correction_low_pct,correction_high_pct,correction_missing,specificity_pct,specificity_low_pct,specificity_high_pct,specificity_missing
+Llama 3.1 8B,us.meta.llama3-1-8b-instruct-v1:0,No added skill,0.244,0.043,1.368,0,78.333,70.146,84.763,0
+Llama 3.1 8B,us.meta.llama3-1-8b-instruct-v1:0,Size-matched few-shot examples,44.634,39.894,49.474,0,39.167,30.899,48.106,0
+Llama 3.1 8B,us.meta.llama3-1-8b-instruct-v1:0,Primary GPT-4o learned skill,16.341,13.078,20.23,0,60.0,51.056,68.324,0
+Llama 3.1 8B,us.meta.llama3-1-8b-instruct-v1:0,Compact learned skill,6.829,4.767,9.693,0,72.5,63.907,79.697,0
+Gemini 2.5 Flash,gemini-2.5-flash,No added skill,0.0,0.0,0.928,11,62.5,53.577,70.648,4
+Gemini 2.5 Flash,gemini-2.5-flash,Size-matched few-shot examples,54.634,49.794,59.388,8,50.833,42.003,59.612,0
+Gemini 2.5 Flash,gemini-2.5-flash,Primary GPT-4o learned skill,6.341,4.364,9.129,19,57.5,48.558,65.977,2
+Gemini 2.5 Flash,gemini-2.5-flash,Compact learned skill,10.0,7.457,13.285,23,53.333,44.443,62.017,2
+Llama 3.3 70B,us.meta.llama3-3-70b-instruct-v1:0,No added skill,2.683,1.505,4.74,0,60.833,51.894,69.101,0
+Llama 3.3 70B,us.meta.llama3-3-70b-instruct-v1:0,Size-matched few-shot examples,65.366,60.637,69.81,0,40.0,31.676,48.944,0
+Llama 3.3 70B,us.meta.llama3-3-70b-instruct-v1:0,Primary GPT-4o learned skill,55.122,50.282,59.867,0,50.0,41.194,58.806,0
+Llama 3.3 70B,us.meta.llama3-3-70b-instruct-v1:0,Compact learned skill,53.659,48.82,58.429,0,59.167,50.221,67.544,0
+GPT-4o,gpt-4o-2024-11-20,No added skill,4.39,2.795,6.832,0,76.667,68.345,83.334,0
+GPT-4o,gpt-4o-2024-11-20,Size-matched few-shot examples,74.634,70.207,78.604,0,65.0,56.121,72.948,0
+GPT-4o,gpt-4o-2024-11-20,Compact learned skill,56.341,51.504,61.061,0,79.167,71.052,85.472,0
+GPT-5.4,gpt-5.4,No added skill,53.902,49.064,58.669,0,90.0,83.332,94.187,0
+GPT-5.4,gpt-5.4,Size-matched few-shot examples,90.0,86.715,92.543,0,79.167,71.052,85.472,0
+GPT-5.4,gpt-5.4,Primary GPT-4o learned skill,93.415,90.588,95.435,0,84.167,76.591,89.623,0
+GPT-5.4,gpt-5.4,Compact learned skill,90.244,86.987,92.753,0,86.667,79.435,91.623,0
+Gemini 3.5 Flash,gemini-3.5-flash,No added skill,59.024,54.202,63.68,0,85.833,78.481,90.963,0
+Gemini 3.5 Flash,gemini-3.5-flash,Size-matched few-shot examples,88.537,85.089,91.269,0,56.667,47.73,65.19,0
+Gemini 3.5 Flash,gemini-3.5-flash,Primary GPT-4o learned skill,92.683,89.747,94.827,0,59.167,50.221,67.544,0
+Gemini 3.5 Flash,gemini-3.5-flash,Compact learned skill,90.0,86.715,92.543,0,85.833,78.481,90.963,0
+GPT-5.6 Luna,gpt-5.6-luna,No added skill,71.463,66.909,75.62,0,95.833,90.616,98.207,0
+GPT-5.6 Luna,gpt-5.6-luna,Size-matched few-shot examples,93.171,90.307,95.233,0,80.0,71.963,86.176,0
+GPT-5.6 Luna,gpt-5.6-luna,Primary GPT-4o learned skill,96.585,94.351,97.955,0,79.167,71.052,85.472,0
+GPT-5.6 Luna,gpt-5.6-luna,Compact learned skill,92.927,90.026,95.03,0,93.333,87.395,96.583,0

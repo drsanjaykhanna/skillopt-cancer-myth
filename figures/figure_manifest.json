@@ -1,0 +1,259 @@
+[
+  {
+    "figure": "figure_1_architecture",
+    "generator": "generate_final_figures.py::figure_1_architecture",
+    "source_data": [],
+    "outputs": [
+      {
+        "file": "05_Figures/figure_1_architecture.pdf",
+        "sha256": "5d8e820fdab83898371bb615ccadf7e96848c06cd33c4826c3761c17c6b2b00e",
+        "bytes": 32265
+      },
+      {
+        "file": "05_Figures/figure_1_architecture.svg",
+        "sha256": "5f312c01d3fadbd721251642de9fd2e42c767b37a0e64256f6bfaf2b4a0e914a",
+        "bytes": 80745
+      },
+      {
+        "file": "05_Figures/figure_1_architecture.png",
+        "sha256": "63a65bb855c40d5a9d17203b7463a80d26907ac0a72f3b66303d6894ca7d0967",
+        "bytes": 225561
+      },
+      {
+        "file": "05_Figures/figure_1_architecture.tiff",
+        "sha256": "b9b0c3fc83af5ade3dbd52a4f8a1f1fdebf46d95950208927c5a4be8480a355e",
+        "bytes": 836950
+      }
+    ],
+    "note": "Methods schematic; no numerical source table."
+  },
+  {
+    "figure": "figure_2_native_efficacy",
+    "generator": "generate_final_figures.py::figure_2_native_efficacy",
+    "source_data": [
+      {
+        "file": "05_Figures/source_data/figure_2_native_efficacy__primary_performance.csv",
+        "sha256": "178fc23d70014adb950332c7e55c83ee3718fd8faf3505068964003453deac82",
+        "bytes": 706
+      },
+      {
+        "file": "05_Figures/source_data/figure_2_native_efficacy__gpt4o_paired_comparisons.csv",
+        "sha256": "face9f9e3af6f6f20567263850b646e62a737cf1d4388270058928cb4adcbbf7",
+        "bytes": 519
+      },
+      {
+        "file": "05_Figures/source_data/figure_2_native_efficacy__item_consistency_matrix.csv",
+        "sha256": "28018b85d620a43814f570562fc1a9f7e36d3439b81e6c69219b9940607bd9ee",
+        "bytes": 183
+      }
+    ],
+    "outputs": [
+      {
+        "file": "05_Figures/figure_2_native_efficacy.pdf",
+        "sha256": "358f959fd7e89fd3f484868e55d5658ceaac1efac1937f785f5981ca6fc46ae6",
+        "bytes": 35824
+      },
+      {
+        "file": "05_Figures/figure_2_native_efficacy.svg",
+        "sha256": "880a56b0aa7257b8715734df6d0cc9b357c609dd2bc2b64bdeb55c3325227568",
+        "bytes": 92936
+      },
+      {
+        "file": "05_Figures/figure_2_native_efficacy.png",
+        "sha256": "db1069c0601ae36642058da6ea9a19de09627831f771273966431a9db58d4150",
+        "bytes": 226365
+      },
+      {
+        "file": "05_Figures/figure_2_native_efficacy.tiff",
+        "sha256": "a36ac9a4dd1c67d48a08406b7bd94824011e41121be6bb1ae122fa705e4738f0",
+        "bytes": 1069712
+      }
+    ],
+    "note": ""
+  },
+  {
+    "figure": "figure_3_learning_dynamics",
+    "generator": "generate_final_figures.py::figure_3_learning_dynamics",
+    "source_data": [
+      {
+        "file": "05_Figures/source_data/figure_3_learning_dynamics__optimisation_trajectories.csv",
+        "sha256": "f6c5e9376733ee99d9dcd4870d529bb63db1a4dab5b6cf240bca418ceec0256f",
+        "bytes": 3797
+      },
+      {
+        "file": "05_Figures/source_data/figure_3_learning_dynamics__native_learning_summary.csv",
+        "sha256": "750c0bfcdac7cf45a92406629369637ddb843c797d4e32e5684f7bd18d4137e9",
+        "bytes": 2073
+      }
+    ],
+    "outputs": [
+      {
+        "file": "05_Figures/figure_3_learning_dynamics.pdf",
+        "sha256": "d2a682aaeb7221fb105d031639b0aa125afe0ff01a31de231ad77058c4eafaca",
+        "bytes": 33624
+      },
+      {
+        "file": "05_Figures/figure_3_learning_dynamics.svg",
+        "sha256": "0baf6152847c51a73350ad2501868f7e50fca0b0b0af95fce48050d3c7749831",
+        "bytes": 100150
+      },
+      {
+        "file": "05_Figures/figure_3_learning_dynamics.png",
+        "sha256": "525fe716c40feaf62a10daf4ad0eab86c8ad524101cbbd6f1040c498de310b05",
+        "bytes": 245874
+      },
+      {
+        "file": "05_Figures/figure_3_learning_dynamics.tiff",
+        "sha256": "babefeddca40d2717a3a9ce9aba2635484e0d7eed82fa7fb7de63f4180a23e40",
+        "bytes": 838836
+      }
+    ],
+    "note": ""
+  },
+  {
+    "figure": "figure_4_cross_model",
+    "generator": "generate_final_figures.py::figure_4_cross_model",
+    "source_data": [
+      {
+        "file": "05_Figures/source_data/figure_4_cross_model__core_intervention_grid.csv",
+        "sha256": "44660b40467f894b8f94b38e93fe0abc5351531a7d82d409b3c2fb79683be89a",
+        "bytes": 2943
+      },
+      {
+        "file": "05_Figures/source_data/figure_4_cross_model__primary_performance.csv",
+        "sha256": "178fc23d70014adb950332c7e55c83ee3718fd8faf3505068964003453deac82",
+        "bytes": 706
+      }
+    ],
+    "outputs": [
+      {
+        "file": "05_Figures/figure_4_cross_model.pdf",
+        "sha256": "ee1232dac9244efe959a92c318206aa70ed7a7057a37646858637bbddaa9eb2e",
+        "bytes": 26507
+      },
+      {
+        "file": "05_Figures/figure_4_cross_model.svg",
+        "sha256": "778576e2eb5f8923166f2d97231293258109f68324158a21552f2c15f6d2afe2",
+        "bytes": 67202
+      },
+      {
+        "file": "05_Figures/figure_4_cross_model.png",
+        "sha256": "b0a3e015cebc1793471a4ef90bd8982b78e96f2eedc54e27f85aa66964292de9",
+        "bytes": 238752
+      },
+      {
+        "file": "05_Figures/figure_4_cross_model.tiff",
+        "sha256": "b9dfa51eb46814d8df9846ba118a05ef48312d11606f2d8de29ac1b60028cdc7",
+        "bytes": 1583768
+      }
+    ],
+    "note": ""
+  },
+  {
+    "figure": "figure_5_skill_portability",
+    "generator": "generate_final_figures.py::figure_5_skill_portability",
+    "source_data": [
+      {
+        "file": "05_Figures/source_data/figure_5_skill_portability__independent_skill_portability.csv",
+        "sha256": "065b1a5c2b82d5434be92671731b0a9bc5ff710729a9c94d047783b8157bbdfa",
+        "bytes": 942
+      },
+      {
+        "file": "05_Figures/source_data/figure_5_skill_portability__independent_skill_themes.csv",
+        "sha256": "10556aeb810edcc79b165b169efc9c92c60f54bf427a39cb64f28e0efe878bf6",
+        "bytes": 1207
+      }
+    ],
+    "outputs": [
+      {
+        "file": "05_Figures/figure_5_skill_portability.pdf",
+        "sha256": "409f34a459411e5e9663a6766029c3476132e50af3b14218ce2dfe63b4a0823a",
+        "bytes": 36843
+      },
+      {
+        "file": "05_Figures/figure_5_skill_portability.svg",
+        "sha256": "a8716917c35367b0516e76129c271e23c8176a8c92188a62c4a47a2e6765e588",
+        "bytes": 104028
+      },
+      {
+        "file": "05_Figures/figure_5_skill_portability.png",
+        "sha256": "91e562373556d74ba9b796368a33580e98937c25af16a9e6d2ef8596fdd94aa5",
+        "bytes": 313966
+      },
+      {
+        "file": "05_Figures/figure_5_skill_portability.tiff",
+        "sha256": "a0c605c9df46bf58849000d03826320ed7c6017e4e0e95e156400547f396a568",
+        "bytes": 1102850
+      }
+    ],
+    "note": ""
+  },
+  {
+    "figure": "figure_6_prompt_strategy",
+    "generator": "generate_final_figures.py::figure_6_prompt_strategy",
+    "source_data": [
+      {
+        "file": "05_Figures/source_data/figure_6_prompt_strategy__prompt_strategy_grid.csv",
+        "sha256": "7f8f405aceb4e1c5906a3c115aba78d00bcee40b06bc68ed027307e7cde54f83",
+        "bytes": 3342
+      }
+    ],
+    "outputs": [
+      {
+        "file": "05_Figures/figure_6_prompt_strategy.pdf",
+        "sha256": "438031c84988bfb71b7aa6bd6a220a646a2319a04ea5a59f6da409fd6dadf726",
+        "bytes": 25934
+      },
+      {
+        "file": "05_Figures/figure_6_prompt_strategy.svg",
+        "sha256": "0ef86d0c5163c4860567ec0262f24026693dce86bde94d7379f7b65e11513b2c",
+        "bytes": 68754
+      },
+      {
+        "file": "05_Figures/figure_6_prompt_strategy.png",
+        "sha256": "cd916c4f10974dbb8f6c71f88812a5505cc03bbe057e9774b24959f00342b348",
+        "bytes": 250383
+      },
+      {
+        "file": "05_Figures/figure_6_prompt_strategy.tiff",
+        "sha256": "d25e6d0d0fdbfb960b23754b2205e43db2fde7cbe2cd6b15e5a5a5def2049cca",
+        "bytes": 1755688
+      }
+    ],
+    "note": ""
+  },
+  {
+    "figure": "figure_7_generalisation",
+    "generator": "generate_final_figures.py::figure_7_generalisation",
+    "source_data": [
+      {
+        "file": "05_Figures/source_data/figure_7_generalisation__generalisation_summary.csv",
+        "sha256": "55c319169a1767248ad6dca1a84b09d5f7817af275c3f44bcd7a49e5e24bdbec",
+        "bytes": 1699
+      }
+    ],
+    "outputs": [
+      {
+        "file": "05_Figures/figure_7_generalisation.pdf",
+        "sha256": "4abddb441d0018ff8d03f16a3e21c1183b18cd906148c3c9c5d03dd18051ae51",
+        "bytes": 31443
+      },
+      {
+        "file": "05_Figures/figure_7_generalisation.svg",
+        "sha256": "e7084c66b98e9240520c3b97b74e2cb7472e856ff8f1b3999d75f9d8662dd6ef",
+        "bytes": 76018
+      },
+      {
+        "file": "05_Figures/figure_7_generalisation.png",
+        "sha256": "f2ab66169e02c8e1d348d84d6b516cb3e8f640ed8673de17de919640ac0e6c23",
+        "bytes": 208229
+      },
+      {
+        "file": "05_Figures/figure_7_generalisation.tiff",
+        "sha256": "91a3c64b93372f714e3b46b07a707d3b26e2165226d9fbbd7b10ad820f013987",
+        "bytes": 834088
+      }
+    ],
+    "note": ""
+  }
+]

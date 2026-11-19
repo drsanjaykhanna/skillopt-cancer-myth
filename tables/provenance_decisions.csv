@@ -1,0 +1,6 @@
+analysis_surface,status,reason
+Native baseline versus post-optimisation ledgers in three SkillOpt executions,Included in primary analysis,Each execution contains matched 410-question baseline and post-optimisation ledgers with identical IDs and question text; record-derived rates reproduce persisted summaries.
+External GPT-4o ledger labelled skillopt_v2_gpt4o_best,Excluded from primary analysis,The logged 200-character prompt prefix does not match the current native best skill and the full prompt was not persisted.
+Cross-model port_gpt4o_skill ledgers,Excluded from primary analysis,The logged prefix is compatible with more than one surviving full prompt; exact full-text identity cannot be established from the ledger.
+External few-shot and compact-skill ledgers,Excluded from primary analysis,They were generated in a separate harness and persist only prompt prefixes; they do not provide matched native comparisons for the primary target model.
+Native negative-control test performance,Not available,Negative controls were present during validation but the native held-out test ledgers contain only false-presupposition questions.

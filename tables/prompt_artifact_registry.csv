@@ -1,0 +1,10 @@
+artifact,relative_path,characters,words,sha256,provenance
+Natural rule prompt,skills/llm_instructions_natural.md,14533,2152,26ddcf569c21de3ee5b9ad364b6cca8588d24906f8df2d5113e8c0522e129088,one-shot GPT-5.4 instruction generation
+Medium rule prompt,skills/llm_instructions_5k.md,5774,846,56e349b7c6d6b4024fafb2d8b389917a60f83602bde6f9016d99b5bcc954dee8,one-shot GPT-5.4 instruction generation
+Short rule prompt,skills/llm_instructions_2k.md,2814,410,b45fae07045c0c0f6844fb510e958543c9e639861b5b4fce4235a87fa7188222,one-shot GPT-5.4 instruction generation
+Few-shot prompt,skills/fewshot_gpt54.md,5927,929,88448e44445704a7b5a23e20487f6dd9a0767797fb5d815f3e66b0351e8f47de,one-shot GPT-5.4 prompt with worked examples
+Primary learned skill,results/skillopt_v2_gpt4o/best_skill.md,4933,703,7b2d733d2736295a54115ca6981a3cc075934389311c2196a33f3d4000e46113,SkillOpt execution 1
+Learned skill replicate 1,results/skillopt_v2_gpt4o_replicate1/best_skill.md,4414,626,98cc6816a9605068ab2f5ab50585d067058354175051d0f24191327f10c13a85,SkillOpt execution 2
+Learned skill replicate 2,results/skillopt_v2_gpt4o_replicate2/best_skill.md,5416,779,83d8d5f5366b1ce61189b4a20166c79db56e0368e44fc3ed878c06fd296f3556,SkillOpt execution 3
+Compact checkpoint,results/skillopt_v2_gpt4o_compact/skills/skill_v0011.md,1969,274,4fda388ff50bd6e1453bdbedbcb1e9b18e9ea33f7f6d8f85def875d79c493d8c,SkillOpt compact step 11 used in external grid
+Compact final skill,results/skillopt_v2_gpt4o_compact/best_skill.md,2874,423,34dcd71d7a9c3f753ebb78165ba3e6685a8440b3aa24d6102abb74fb3e2eec06,SkillOpt compact step 14 native best

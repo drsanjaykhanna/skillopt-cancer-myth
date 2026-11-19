@@ -1,0 +1,7 @@
+run,condition,outcome,n_total,successes,estimate_pct,ci_low_pct,ci_high_pct
+skillopt_v2_gpt4o,Baseline,false-presupposition correction rate,410,67,16.341,13.078,20.23
+skillopt_v2_gpt4o,Post-optimisation,false-presupposition correction rate,410,339,82.683,78.721,86.038
+skillopt_v2_gpt4o_replicate1,Baseline,false-presupposition correction rate,410,72,17.561,14.184,21.54
+skillopt_v2_gpt4o_replicate1,Post-optimisation,false-presupposition correction rate,410,371,90.488,87.26,92.963
+skillopt_v2_gpt4o_replicate2,Baseline,false-presupposition correction rate,410,63,15.366,12.198,19.177
+skillopt_v2_gpt4o_replicate2,Post-optimisation,false-presupposition correction rate,410,337,82.195,78.198,85.594
